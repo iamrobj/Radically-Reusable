@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/AndroidProjects-radicallyreusable.iml" filepath="$PROJECT_DIR$/AndroidProjects-radicallyreusable.iml" />
       <module fileurl="file://$PROJECT_DIR$/../Can'tTalk.iml" filepath="$PROJECT_DIR$/../Can'tTalk.iml" />
       <module fileurl="file://$PROJECT_DIR$/../app/app.iml" filepath="$PROJECT_DIR$/../app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/../notificationhelperlibrary/notificationhelperlibrary.iml" filepath="$PROJECT_DIR$/../notificationhelperlibrary/notificationhelperlibrary.iml" />
-      <module fileurl="file://$PROJECT_DIR$/radicallyreusable.iml" filepath="$PROJECT_DIR$/radicallyreusable.iml" />
       <module fileurl="file://$PROJECT_DIR$/radicallyreusable/radicallyreusable-radicallyreusable.iml" filepath="$PROJECT_DIR$/radicallyreusable/radicallyreusable-radicallyreusable.iml" />
     </modules>
   </component>

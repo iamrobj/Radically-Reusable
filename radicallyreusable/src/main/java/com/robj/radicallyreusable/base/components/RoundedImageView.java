@@ -14,7 +14,7 @@ import android.util.AttributeSet;
 /**
  * Created by Rob J on 18/08/15.
  */
-public class RoundedImageView extends android.support.v7.widget.AppCompatImageView {
+public class RoundedImageView extends androidx.appcompat.widget.AppCompatImageView {
 
     public RoundedImageView(Context context) {
         super(context);

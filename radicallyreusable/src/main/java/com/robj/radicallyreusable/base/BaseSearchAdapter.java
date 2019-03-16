@@ -1,7 +1,7 @@
 package com.robj.radicallyreusable.base;
 
 import android.content.Context;
-import android.support.v7.widget.RecyclerView;
+import androidx.recyclerview.widget.RecyclerView;
 import android.text.TextUtils;
 
 import com.robj.radicallyreusable.base.base_list.BaseListRecyclerAdapter;
