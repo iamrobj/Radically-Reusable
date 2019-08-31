@@ -1,8 +1,8 @@
 package com.robj.radicallyreusable.base.components;
 
-import java.util.NoSuchElementException;
+import androidx.annotation.Nullable;
 
-import io.reactivex.annotations.Nullable;
+import java.util.NoSuchElementException;
 
 /**
  * Created by Rob J on 21/09/17.
