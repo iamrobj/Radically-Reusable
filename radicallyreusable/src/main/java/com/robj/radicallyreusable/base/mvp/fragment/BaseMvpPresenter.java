@@ -1,6 +1,6 @@
 package com.robj.radicallyreusable.base.mvp.fragment;
 
-import com.hannesdorfmann.mosby.mvp.MvpBasePresenter;
+import com.hannesdorfmann.mosby3.mvp.MvpBasePresenter;
 
 /**
  * Created by Rob J on 05/02/17.

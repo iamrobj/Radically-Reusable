@@ -11,13 +11,14 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.Toast;
 
+import com.hannesdorfmann.mosby3.mvp.MvpFragment;
 import com.robj.radicallyreusable.R;
 
 /**
  * Created by Rob J on 05/02/17.
  */
 
-public abstract class BaseMvpFragment<V extends BaseMvpView, P extends BaseMvpPresenter<V>> extends com.hannesdorfmann.mosby.mvp.MvpFragment<V, P> implements BaseMvpView {
+public abstract class BaseMvpFragment<V extends BaseMvpView, P extends BaseMvpPresenter<V>> extends MvpFragment<V, P> implements BaseMvpView {
 
     public final String TAG = getClass().getSimpleName();
 

@@ -32,6 +32,5 @@ dependencies {
     api "androidx.appcompat:appcompat:1.0.2"
     api "com.google.android.material:material:1.0.0"
     api "androidx.recyclerview:recyclerview:1.0.0"
-    api 'com.hannesdorfmann.mosby:mvp:2.0.1'
-    api 'com.hannesdorfmann.mosby:viewstate:2.0.1'
+    api 'com.hannesdorfmann.mosby3:viewstate:3.1.1' // MVP + ViewState support
 }

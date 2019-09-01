@@ -1,11 +1,13 @@
 package com.robj.radicallyreusable.base.mvp.fragment;
 
 
+import com.hannesdorfmann.mosby3.mvp.MvpView;
+
 /**
  * Created by Rob J on 05/02/17.
  */
 
-public interface BaseMvpView extends com.hannesdorfmann.mosby.mvp.MvpView {
+public interface BaseMvpView extends MvpView {
 
     void showProgressDialog(int stringResId);
 
